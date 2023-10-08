@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 new line
+=======
+line 1
+line 2
+>>>>>>> branch1
